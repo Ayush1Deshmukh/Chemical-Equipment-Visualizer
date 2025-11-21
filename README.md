@@ -38,7 +38,7 @@
 <div align="center">
 <img src="Adobe Express - demo video.gif" width="90%" alt="Demo: CSV Upload → Real-time Analysis → Charts → PDF Export" />
 <br>
-*🔄 Looping GIF: Full end-to-end walkthrough!*
+
 </div>
 
 ---
